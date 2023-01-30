@@ -1,0 +1,3 @@
+[submodule "esp32"]
+	path = libraries/esp32
+	url = https://github.com/espressif/kicad-libraries.git
