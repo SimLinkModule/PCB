@@ -1,3 +1,4 @@
 (fp_lib_table
   (lib (name "Espressif")(type "KiCad")(uri "${KIPRJMOD}/libraries/esp32/footprints/Espressif.pretty")(options "")(descr ""))
+  (lib (name "SSD1306")(type "KiCad")(uri "${KIPRJMOD}/libraries/SSD1306/SSD1306.pretty")(options "")(descr ""))
 )

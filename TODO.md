@@ -1,5 +1,11 @@
-- [ ] Es muss geschaut werden das kein strom von USB/UART zu Pin der Fernsteuerung fließen kann
-- [ ] PCB erstellen
 - [ ] Komponenten auswählen
+- [ ] Footprint auswählen
+- [ ] PCB erstellen
 - [ ] Case mit beachten
+- [ ] Version und Bild auf PCB hinzufügen
+- [ ] Schematic noch einmal durchgehen
+- [ ] Gerble Dateien noch einmal durchgehen
+- [ ] PCB noch einmal durchgehen
+- [ ] BOM erstellen
+- [ ] PCB bestellen minimalanzahl
 https://jlcpcb.com/parts/componentSearch
