@@ -7,5 +7,5 @@
 - [ ] Gerble Dateien noch einmal durchgehen
 - [ ] PCB noch einmal durchgehen
 - [ ] BOM erstellen
-- [ ] PCB bestellen minimalanzahl
+- [ ] PCB bestellen minimalanzahl --> Bestücken bei Mainboard minimal und bei IO-Board alle
 https://jlcpcb.com/parts/componentSearch

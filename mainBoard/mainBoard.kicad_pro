@@ -333,7 +333,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "simlinkModule.kicad_pro",
+    "filename": "mainBoard.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -414,10 +414,6 @@
     [
       "8cc874d3-573b-4351-8fa9-6f5d89e37970",
       ""
-    ],
-    [
-      "1af3b553-1d92-442a-808e-1680e66f7162",
-      "IOBoard"
     ]
   ],
   "text_variables": {}
