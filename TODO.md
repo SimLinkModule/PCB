@@ -1,6 +1,7 @@
 - [ ] Komponenten auswählen
 - [ ] Footprint auswählen
 - [ ] PCB erstellen
+- [ ] JST-Connector noch einmal anschauen
 - [ ] Case mit beachten
 - [ ] Version und Bild auf PCB hinzufügen
 - [ ] Schematic noch einmal durchgehen
