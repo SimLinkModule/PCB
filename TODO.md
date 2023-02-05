@@ -3,10 +3,12 @@
 - [ ] PCB erstellen
 - [ ] JST-Connector noch einmal anschauen
 - [ ] Case mit beachten
-- [ ] Version und Bild auf PCB hinzufügen
+- [ ] Version auf PCB hinzufügen
 - [ ] Schematic noch einmal durchgehen
 - [ ] Gerble Dateien noch einmal durchgehen
 - [ ] PCB noch einmal durchgehen
 - [ ] BOM erstellen
 - [ ] PCB bestellen minimalanzahl --> Bestücken bei Mainboard minimal und bei IO-Board alle
+- [ ] Anforderungen an PCB hinzufügen
+- [ ] Dioden + einzeichnen & JLCJLCJLCJLC & Fablayer noch einmal anschauen
 https://jlcpcb.com/parts/componentSearch
