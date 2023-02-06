@@ -2402,7 +2402,7 @@
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid add678d2-2796-47c4-bb79-f2bbcac2aff2)
     (property "Reference" "SW2" (id 0) (at 238.76 135.89 0))
-    (property "Value" "SW_Push" (id 1) (at 238.76 138.43 0))
+    (property "Value" "C520860" (id 1) (at 238.76 138.43 0))
     (property "Footprint" "Button_Switch_SMD:SW_SPST_CK_RS282G05A3" (id 2) (at 238.76 138.43 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -2582,7 +2582,7 @@
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid eca37a6a-4133-4eaf-8ed7-46ece9855ada)
     (property "Reference" "SW1" (id 0) (at 194.31 135.89 0))
-    (property "Value" "SW_Push" (id 1) (at 194.31 138.43 0))
+    (property "Value" "C520860" (id 1) (at 194.31 138.43 0))
     (property "Footprint" "Button_Switch_SMD:SW_SPST_CK_RS282G05A3" (id 2) (at 194.31 138.43 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -2828,10 +2828,10 @@
       (reference "R6") (unit 1) (value "4.7K") (footprint "Resistor_SMD:R_0402_1005Metric")
     )
     (path "/eca37a6a-4133-4eaf-8ed7-46ece9855ada"
-      (reference "SW1") (unit 1) (value "SW_Push") (footprint "Button_Switch_SMD:SW_SPST_CK_RS282G05A3")
+      (reference "SW1") (unit 1) (value "C520860") (footprint "Button_Switch_SMD:SW_SPST_CK_RS282G05A3")
     )
     (path "/add678d2-2796-47c4-bb79-f2bbcac2aff2"
-      (reference "SW2") (unit 1) (value "SW_Push") (footprint "Button_Switch_SMD:SW_SPST_CK_RS282G05A3")
+      (reference "SW2") (unit 1) (value "C520860") (footprint "Button_Switch_SMD:SW_SPST_CK_RS282G05A3")
     )
     (path "/9a64a489-0d38-49e0-99a9-8ea8688ac770"
       (reference "U1") (unit 1) (value "AMS1117-3.3") (footprint "Package_TO_SOT_SMD:SOT-223-3_TabPin2")

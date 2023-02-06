@@ -1,13 +1,11 @@
-- [ ] Komponenten auswählen
-- [ ] Footprint auswählen
-- [ ] PCB erstellen
-- [ ] Case mit beachten
-- [ ] Version auf PCB hinzufügen
+- [ ] SMT Punkte erstellen
+
 - [ ] Schematic noch einmal durchgehen
-- [ ] Gerble Dateien noch einmal durchgehen
 - [ ] PCB noch einmal durchgehen
+- [ ] Gerble Dateien noch einmal durchgehen
+
 - [ ] BOM erstellen
 - [ ] PCB bestellen minimalanzahl --> Bestücken bei Mainboard minimal und bei IO-Board alle
-- [ ] Anforderungen an PCB hinzufügen --> Im PCB Programm
-- [ ] Dioden + einzeichnen & JLCJLCJLCJLC
+- [ ] Positionierungsdatei erstellen
+
 https://jlcpcb.com/parts/componentSearch
