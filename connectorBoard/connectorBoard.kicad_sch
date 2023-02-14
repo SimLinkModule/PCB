@@ -6,7 +6,8 @@
 
   (title_block
     (title "Connector Board")
-    (date "2023-02-04")
+    (date "2023-02-14")
+    (rev "1.0")
     (company "Fabian Kuffer")
   )
 

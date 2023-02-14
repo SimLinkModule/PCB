@@ -5,6 +5,13 @@
   )
 
   (paper "A4")
+  (title_block
+    (title "Mainboard")
+    (date "2023-02-14")
+    (rev "1.0")
+    (company "Fabian Kuffer")
+  )
+
   (layers
     (0 "F.Cu" signal)
     (31 "B.Cu" power)
@@ -1533,7 +1540,7 @@
   (gr_line (start 83.3528 100.88) (end 111.7488 100.88) (layer "Edge.Cuts") (width 0.1) (tstamp 9a91ad2f-4f45-4feb-b239-ba41d4a8e398))
   (gr_arc (start 83.3528 100.88) (mid 80.982012 99.897988) (end 80 97.5272) (layer "Edge.Cuts") (width 0.1) (tstamp ee719e83-96ea-4f89-8fa8-5f794702fbff))
   (gr_line (start 97.9572 55.518) (end 97.9572 105.518) (layer "User.1") (width 0.15) (tstamp 60f13408-82b4-4c90-947b-11a096910713))
-  (gr_text "Mainboard\nv.0.9" (at 96.6216 77.3684) (layer "B.SilkS") (tstamp 9983d644-7433-4940-8fdf-a8d504ace11a)
+  (gr_text "Mainboard\nv1.0" (at 96.6216 77.3684) (layer "B.SilkS") (tstamp 9983d644-7433-4940-8fdf-a8d504ace11a)
     (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
   )
   (gr_text "Controller\n" (at 97.2312 92.964) (layer "F.SilkS") (tstamp 13b071e9-2dab-474b-828f-490064d3380f)

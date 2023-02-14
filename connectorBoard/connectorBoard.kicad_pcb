@@ -5,6 +5,13 @@
   )
 
   (paper "A4")
+  (title_block
+    (title "Connector Board")
+    (date "2023-02-14")
+    (rev "1.0")
+    (company "Fabian Kuffer")
+  )
+
   (layers
     (0 "F.Cu" signal)
     (31 "B.Cu" signal)
@@ -393,7 +400,7 @@
   (gr_line (start 181.356 80) (end 181.356 110) (layer "User.1") (width 0.15) (tstamp 1ca91c7f-5c6a-489f-8863-d583e0842c3b))
   (gr_line (start 181.356 110) (end 201.356 110) (layer "User.1") (width 0.15) (tstamp 64bf9bd9-8391-4b4d-abd5-8e35d5337a79))
   (gr_line (start 181.356 80) (end 201.356 80) (layer "User.1") (width 0.15) (tstamp de1f2ebf-1422-4c04-ab82-8898e10f3bde))
-  (gr_text "Connectorboard\nv0.9" (at 199.136 94.996 90) (layer "B.SilkS") (tstamp a4fa01ec-c67f-4565-bbf3-c9f8114e27c4)
+  (gr_text "Connectorboard\nv1.0" (at 199.136 94.996 90) (layer "B.SilkS") (tstamp a4fa01ec-c67f-4565-bbf3-c9f8114e27c4)
     (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
   )
   (gr_text "Controller Connector" (at 186.436 94.742 90) (layer "B.SilkS") (tstamp fcf7f3d2-9d90-4efe-9069-a3461c963e33)

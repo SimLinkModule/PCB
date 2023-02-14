@@ -1,5 +1,12 @@
 # PCB
 
-Verwendetes Display hat nur 14Pins (aufpassen es gibt auch welche mit 15Pins oder weniger)
+There are 3 PCBs in this repo. The ConnectorBoard is responsible for the connection between the radio and the module. The MainBoard contains the ESP32 and a JST GH port for flashing. Flashing works in the same way as the ESP32 devkits with esptool.py. An additional USB-FTDI device is required for this. The IO board contains all the buttons and the display for the user. The PCB was divided into three parts to ensure that it can be installed in a shell as modularly as possible. Also, in the event of circuit faults, you don't have to order everything.
 
-PCB abgeleitet von "schematic of the ESP32 DevKitC development board", ShenZhen QDTech Co.,LTD 0.91 OLED Schematic und Allvision technology Inc. OEL Display Module Product Specification.
+## Notes
+
+- It's important to ensure that a display with 14 pins is used. There are also some displays which are sold with 15 pins.
+
+## Used as reference
+
+- schematic of the ESP32 DevKitC development board
+- ShenZhen QDTech Co.,LTD 0.91 OLED Schematic und Allvision technology Inc. OEL Display Module Product Specification.

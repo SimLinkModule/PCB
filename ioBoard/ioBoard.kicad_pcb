@@ -5,6 +5,13 @@
   )
 
   (paper "A4")
+  (title_block
+    (title "IO-Board")
+    (date "2023-02-14")
+    (rev "1.0")
+    (company "Fabian Kuffer")
+  )
+
   (layers
     (0 "F.Cu" signal)
     (31 "B.Cu" power)
@@ -1190,7 +1197,7 @@
   (gr_arc (start 83.302 121.92) (mid 80.967133 120.952867) (end 80 118.618) (layer "Edge.Cuts") (width 0.1) (tstamp f9a2ab0d-a05a-4bc0-a2a4-6fa908c73242))
   (gr_line (start 83.302 121.92) (end 111.698 121.92) (layer "Edge.Cuts") (width 0.1) (tstamp fae32327-d038-477f-9d69-569703a66e63))
   (gr_line (start 97.5 124.46) (end 97.5 94.488) (layer "User.1") (width 0.15) (tstamp ccc2bf20-4fa8-476a-ae31-9d230fc329f6))
-  (gr_text "IO-Board\nv.0.9" (at 97.536 93.98) (layer "B.SilkS") (tstamp e2bc944c-6bf0-4835-be39-89f99466ee66)
+  (gr_text "IO-Board\nv1.0" (at 97.536 93.98) (layer "B.SilkS") (tstamp e2bc944c-6bf0-4835-be39-89f99466ee66)
     (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
   )
   (gr_text "+" (at 103.7336 105.41) (layer "F.SilkS") (tstamp 33b3fe3b-28c4-467d-b868-820e4d96408a)

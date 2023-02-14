@@ -1,3 +1,0 @@
-- [ ] Dateien aufräumen
-- [ ] Readme schreiben
-- [ ] PCB Public machen

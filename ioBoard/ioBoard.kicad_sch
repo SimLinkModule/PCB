@@ -6,7 +6,8 @@
 
   (title_block
     (title "IO-Board")
-    (date "2023-02-02")
+    (date "2023-02-14")
+    (rev "1.0")
     (company "Fabian Kuffer")
   )
 
