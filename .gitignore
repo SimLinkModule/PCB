@@ -27,6 +27,3 @@ fp-info-cache
 
 # Exported BOM files
 *.xml
-
-# JLCPCB-addon
-*.db
