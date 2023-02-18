@@ -5,6 +5,7 @@ There are 3 PCBs in this repo. The ConnectorBoard is responsible for the connect
 ## Notes
 
 - It's important to ensure that a display with 14 pins is used. There are also some displays which are sold with 15 pins.
+- If the module always starts in download mode, the capacitor C6 on the main PCB must be removed. C6 is originally responsible for debouncing the button, but puts the ESP32 into flash mode the first time it's booted.
 
 ## Used as reference
 
